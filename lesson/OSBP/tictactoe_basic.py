@@ -14,7 +14,7 @@ def draw_board():
 
             print(tictactoe[i][j],  end=" | ")
     print()
-    print("-----------")
+    print("----------- ")
 
 
 def user_input():
